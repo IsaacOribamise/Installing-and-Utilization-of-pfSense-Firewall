@@ -40,7 +40,7 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - Let's connect and share our passion for cybersecurity!
 - Feel free to reach out for collaborations, discussions, or just to geek out over the latest exploits. 
-- My linkedin page is below:
+- My LinkedIn page is below:
 
 [<img align="left" alt="RichardSaunders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
