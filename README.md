@@ -24,13 +24,22 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 2: Download the ISO file for the pfSense firewall (You will need to use 7zip file manager to extract the file). Lastly, Follow the video I linked above because the installation is a bit tricky.</b>
 
+
 - <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19)</b>
+<img width="369" alt="Screenshot 2023-12-29 000321" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/24cbbb1e-cb51-40e8-803f-817104978c6b">
+
 
 - <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.</b>
+<img width="911" alt="Screenshot 2023-12-29 000454" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/818fccfa-fc0d-4a84-8b39-279e1a74e373">
+
 
 - <b>📝 STEP 5: Performed basic configurations like setting up firewall rules. For this, I created a firewall alias (It is a feature that allows me to create  a named list of IP addresses, networks, or ports that can be referenced in firewall rules.) I then customized the firewall rules to block traffic coming from that certain website.</b>
-  
+<img width="886" alt="Screenshot 2023-12-29 041818" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/806b0afc-327a-40d4-bece-3c6b71719417">
+
+
 - <b>📝 STEP 6: Performed another basic configuration which was setting up an OpenVPN for a user, this is used for  allowing remote users to connect to a network securely. I navigated to the "VPN" > "OpenVPN" > "Servers." Click on the "Add" button to create a new OpenVPN server, did the regular configuration. Created an OpenVPN user, downloaded and Installed OpenVPN Client, and connected to the OpenVPN Server.</b>
+<img width="442" alt="Screenshot 2023-12-29 045024" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/6a0c8661-e703-431b-b85e-663428a3b10b">
+
 
 - <b>📝 STEP 7: Lastly, I familiarized and played around with other features for hands-on experience. So keep watch for the next project</b>
 
