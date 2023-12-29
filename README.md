@@ -26,8 +26,7 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 
 - <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19)</b>
-<img width="369" alt="Screenshot 2023-12-29 000321" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/24cbbb1e-cb51-40e8-803f-817104978c6b">
-
+<img width="433" alt="Screenshot 2023-12-29 054509" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/949cb091-f0ac-44bd-945a-ce29219356ed">
 
 - <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.</b>
 <img width="911" alt="Screenshot 2023-12-29 000454" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/818fccfa-fc0d-4a84-8b39-279e1a74e373">
