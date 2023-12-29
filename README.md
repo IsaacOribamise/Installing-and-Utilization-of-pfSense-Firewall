@@ -22,11 +22,9 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
 
-- <b>📝 STEP 2: Download and exact all the other tools (Kali Linux, Windows server 2019, Windows 11 OS, and Metasploitable). Lastly, you can also put everything in a designated folder to make it look organized.</b>
-<img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/a3fb8b1d-6346-4719-9546-4648e7d757f2">
+- <b>📝 STEP 2: Download the ISO file for the pfSense firewall (You will need to use 7zip file manager to extract the file). Lastly, Follow the video I linked above because the installation is a bit tricky.</b>
 
-- <b>📝 STEP 3: We are going to create a VM for each tool. > Open VirtualBox and click on "New" to create a new virtual machine for each tool. Repeat the process for each tool. You can check out the video I linked above for a more detailed process</b>
-<img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/9662e756-7447-45a9-a83b-147d61dacb82">
+- <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19) > Log in with the default username: 'admin' and password: 'pfsense' > then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.
 
 - <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
 
