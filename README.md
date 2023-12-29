@@ -26,11 +26,15 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19)</b>
 
-- <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.
+- <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.</b>
 
-- <b>📝 STEP 5: Performed basic Configuration like setting up firewall rules, for blocking traffic on certain websites. Used firewall aliases to simplify the firewall rules.
-- 
-- <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
+- <b>📝 STEP 5: Performed basic configurations like setting up firewall rules. For this, I created a firewall alias (It is a feature that allows me to create  a named list of IP addresses, networks, or ports that can be referenced in firewall rules.) I then customized the firewall rules to block traffic coming from that certain website.</b>
+  
+- <b>📝 STEP 6: Performed another basic configuration which was setting up an OpenVPN for a user. 
+
+
+
+- We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
 
 
 
