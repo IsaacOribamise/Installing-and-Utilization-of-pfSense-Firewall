@@ -24,7 +24,9 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 2: Download the ISO file for the pfSense firewall (You will need to use 7zip file manager to extract the file). Lastly, Follow the video I linked above because the installation is a bit tricky.</b>
 
-- <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19) > Log in with the default username: 'admin' and password: 'pfsense' > then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.
+- <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19)</b>
+
+- <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.
 
 - <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
 
