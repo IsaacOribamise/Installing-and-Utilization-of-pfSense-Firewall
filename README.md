@@ -16,9 +16,9 @@ Welcome back, for this project I will delve into the implementation and utilizat
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
 - <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
 
-<h2>[📝 Step by Step Guide To Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.]
+<h2>📝 Step by Step Guide To Setting Up pfSense Firewall
 
-- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=BwAD8w05D5A&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=1&pp=iAQB)</b>
+- <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/live/GUCRDqplwMQ?si=YrEbBZ45ju9DIfwx)</b>
 
 - <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
 
