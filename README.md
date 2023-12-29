@@ -30,7 +30,7 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 5: Performed basic configurations like setting up firewall rules. For this, I created a firewall alias (It is a feature that allows me to create  a named list of IP addresses, networks, or ports that can be referenced in firewall rules.) I then customized the firewall rules to block traffic coming from that certain website.</b>
   
-- <b>📝 STEP 6: Performed another basic configuration which was setting up an OpenVPN for a user. 
+- <b>📝 STEP 6: Performed another basic configuration which was setting up an OpenVPN for a user, this is used for  allowing remote users to connect to a network securely. I navigated to the "VPN" > "OpenVPN" > "Servers." Click on the "Add" button to create a new OpenVPN server, did the regular configuration. Created an OpenVPN user, downloaded and Installed OpenVPN Client, and connected to the OpenVPN Server.</b>
 
 
 
