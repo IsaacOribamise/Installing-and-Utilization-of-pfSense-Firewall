@@ -1,4 +1,4 @@
-# Installing-and-Utilization-of-pfSense-Firewall 🛡️🚫
+# Installing-and-Utilizing-of-pfSense-Firewall 🛡️🚫
 
 <h2>📚 Introduction</h2>
 Welcome back, for this project I will delve into the implementation and utilization of pfSense firewall 🧱. This is an open-source firewall that acts as a protective barrier between your internal network and the internet, allowing you to control and monitor incoming and outgoing traffic. It is also user-friendly which makes it accessible to both beginners and experienced users.
