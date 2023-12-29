@@ -32,20 +32,9 @@ Welcome back, for this project I will delve into the implementation and utilizat
   
 - <b>📝 STEP 6: Performed another basic configuration which was setting up an OpenVPN for a user, this is used for  allowing remote users to connect to a network securely. I navigated to the "VPN" > "OpenVPN" > "Servers." Click on the "Add" button to create a new OpenVPN server, did the regular configuration. Created an OpenVPN user, downloaded and Installed OpenVPN Client, and connected to the OpenVPN Server.</b>
 
+- <b>📝 STEP 7: Lastly, I familiarized and played around with other features for hands-on experience. So keep watch for the next project</b>
 
 
-- We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
-
-
-
-
-
-
-<h2>🌱 I'm currently Learning</h2>
-
-- Cybersecurity
-- Large Language Learning Models
-- Power BI/Tableau
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -56,18 +45,3 @@ Welcome back, for this project I will delve into the implementation and utilizat
 [<img align="left" alt="RichardSaunders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/isaac-oribamise/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
