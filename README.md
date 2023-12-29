@@ -28,8 +28,7 @@ Welcome back, for this project I will delve into the implementation and utilizat
 
 - <b>📝 STEP 4: Log in with the default username: 'admin' and password: 'pfsense' > Then I went through the initial configuration where we would set our hostname, and change the admin password. Lastly just familiarized myself with the pfSense dashboard, which provided an overview of system status and network information.
 
-- <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
-
+- <b>📝 STEP 5: Performed basic Configuration like setting up firewall rules, for blocking traffic on certain websites.
 - <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
 
 
