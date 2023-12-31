@@ -23,6 +23,7 @@ Welcome back, for this project I will delve into the implementation and utilizat
 - <b>📝 STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
 
 - <b>📝 STEP 2: Download the ISO file for the pfSense firewall (You will need to use 7zip file manager to extract the file). Lastly, Follow the video I linked above because the installation is a bit tricky.</b>
+<img width="582" alt="Screenshot 2023-12-31 062344" src="https://github.com/IsaacOribamise/Installing-and-Utilizing-of-pfSense-Firewall/assets/154943957/9975c5a5-8f73-4b1b-815b-9b47c8bff692">
 
 
 - <b>📝 STEP 3: We are then going to access the pfSense Web Interface by entering the LAN IP address in a web browser (mine was 192.168.0.19)</b>
@@ -43,7 +44,10 @@ Welcome back, for this project I will delve into the implementation and utilizat
 - <b>📝 STEP 7: Lastly, I familiarized and played around with other features for hands-on experience. So keep watch for the next project</b>
 
 <h2>💡 key lessons and takeaways from this project:</h2>
-I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
+In this project of setting up and utilizing the pfSense firewall, several valuable lessons were learned that contribute to a better understanding of network security and firewall management. Here are my key takeaways from this project: 
+- The understanding of how the OpenVPN server works, creating user accounts, configuring the OpenVPN server, and connecting to it through an OpenVPN client shows how businesses use secure communication, especially in remote or off-site scenarios.
+- The understanding of firewall rules and aliases, helped us control traffic between different  network activities.
+
 <h2> 🤳 Connect with me:</h2>
 
 - Let's connect and share our passion for cybersecurity!
