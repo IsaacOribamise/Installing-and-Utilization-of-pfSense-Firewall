@@ -46,8 +46,8 @@ Welcome back, for this project I will delve into the implementation and utilizat
 <h2>💡 key lessons and takeaways from this project:</h2>
 
 - In this project of setting up and utilizing the pfSense firewall, several valuable lessons were learned that contribute to a better understanding of network security and firewall management. Here are my key takeaways from this project: 
-The understanding of how the OpenVPN server works, creating user accounts, configuring the OpenVPN server, and connecting to it through an OpenVPN client shows how businesses use secure communication, especially in remote or off-site scenarios.
-The understanding of firewall rules and aliases, helped us control traffic between different  network activities.
+- The understanding of how the OpenVPN server works, creating user accounts, configuring the OpenVPN server, and connecting to it through an OpenVPN client shows how businesses use secure communication, especially in remote or off-site scenarios.
+- The understanding of firewall rules and aliases, helped us control traffic between different  network activities.
 
 <h2> 🤳 Connect with me:</h2>
 
